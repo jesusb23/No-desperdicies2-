@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206092345308",
+    "project_id": "no-desperdicies",
+    "storage_bucket": "no-desperdicies.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206092345308:android:603e4d4006f85c74a1b919",
+        "android_client_info": {
+          "package_name": "com.example.no_desperdices"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1uXFFju4AvcCLdeMleb_TBSGU2OD_YYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
